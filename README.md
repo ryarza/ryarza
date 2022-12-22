@@ -1,0 +1,1 @@
+I keep mirrors of my projects on GitHub. The <a href=https://codeberg.org/ryarza>original repositories</a> for my projects are on <a href=https://codeberg.org>Codeberg</a>, a <a href="https://www.gnu.org/philosophy/free-sw.html">free</a> and nonprofit platform.
